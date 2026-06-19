@@ -1,2 +1,3 @@
 Organizacion del evento anual
 Confirmar lista de invitados
+Reservar salon principal
